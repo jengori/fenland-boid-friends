@@ -1,5 +1,7 @@
 # Fenland Boid Friends
-Animated birds flying in the Fens. Built with Pygame; inspired by Craig Reynolds' *Boids*.  
+![screenshot](screenshot.png)  
+
+Animated birds flying in the Fens. Built with Pygame; based on Craig Reynolds' [*Boids*](https://en.wikipedia.org/wiki/Boids).  
 
 To play:
 - pip install pygame  
